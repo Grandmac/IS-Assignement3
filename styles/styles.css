@@ -1,0 +1,38 @@
+/*-------------------------------------------*\
+    GLOBAL STYLES
+\*-------------------------------------------*/
+
+body {
+    margin: auto;
+    max-width: 400px;
+}
+
+h2, h3, h4, h5, h6, p, ol {
+    margin: 0;
+}
+
+/*-------------------------------------------*\
+    HEADER
+\*-------------------------------------------*/
+
+header h1  {
+    text-align: center;
+}
+
+
+/*-------------------------------------------*\
+    BODY
+\*-------------------------------------------*/
+
+article h2 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.organizationalChart {
+    border: 2px solid green;
+}
+
+.organizationalChart > ul > li {
+    list-style-type: none;
+}
